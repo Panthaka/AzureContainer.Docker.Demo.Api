@@ -1,0 +1,6 @@
+@AzureContainer.Docker.Demo.Api_HostAddress = http://localhost:5094
+
+GET {{AzureContainer.Docker.Demo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
